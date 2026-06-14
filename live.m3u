@@ -7412,13 +7412,42 @@ TXT আইকন
 
 ব্যবহারবিধি: এই Live_TV_Playlist.m3u ফাইলটি সরাসরি ডাউনলোড করে আপনার যেকোনো প্রিয় IPTV প্লেয়ারে (যেমন: IPTV Smarters, VLC Media Player, Televizo, OTT Navigator) আপলোড করলেই সবগুলো চ্যানেল সুন্দরভাবে ফোল্ডার অনুযায়ী সাজানো অবস্থায় দেখতে পাবেন।
 
+Duplicate ফাইল বাদ দাও
+
+আপনার নির্দেশনা অনুযায়ী প্লেলিস্ট থেকে সমস্ত ডুপ্লিকেট চ্যানেল সম্পূর্ণ বাদ দেওয়া হয়েছে।
+TXT আইকন
+ Live_TV_Un...aylist.m3u 
+ TXT 
+TXT আইকন
+ Live_TV_Un...aylist.m3u 
+ TXT 
+
+একই চ্যানেলের একাধিক ব্যাকআপ লিঙ্ক বা ভিন্ন ডোমেইনের ডুপ্লিকেট এন্ট্রিগুলো (যেমন: একই আইডির একাধিক কোয়ালিটি বা রিপিটেড লিঙ্ক) ফিল্টার করার পর এখন প্লেলিস্টে সর্বমোট ২৫২টি সম্পূর্ণ ইউনিক লাইভ টিভি চ্যানেল রয়েছে।
+
+ডুপ্লিকেটমুক্ত নতুন .m3u প্লেলিস্ট ফাইলটি এখান থেকে ডাউনলোড করে নিন:
+
+ক্যাটাগরি ভিত্তিক ইউনিক চ্যানেলের বিবরণ:
+Bangladeshi: ১২৬টি চ্যানেল
+
+Sports: ৩৬টি চ্যানেল
+
+Entertainment: ৪০টি চ্যানেল
+
+Kids: ২৮টি চ্যানেল
+
+Documentary: ১১টি চ্যানেল
+
+News & Religious: ১১টি চ্যানেল
+
+ফাইলটি ডাউনলোড করে আপনার আইপিটিভি প্লেয়ারে সাবমিট করলেই কোনো ডুপ্লিকেট ছাড়াই ফ্রেশ ও গোছানো তালিকাটি চালু হয়ে যাবে।
+
 
 
 
 Gemini হল AI এবং এটি ভুল করতে পারে।
 
 #EXTM3U
-#PLAYLIST: Pure Live TV Playlist
+#PLAYLIST: Pure Live TV Unique Playlist
 
 #EXTINF:-1 tvg-id="BTV_News" group-title="Bangladeshi",BTV News
 https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
@@ -7474,8 +7503,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 tvg-id="GAZI_TV" group-title="Bangladeshi",GAZI TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Desh_TV" group-title="Bangladeshi",Desh TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-id="MY_TV_HD" group-title="Bangladeshi",MY TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="[BD]_Sony_BBC_Earth_HD" group-title="Bangladeshi",[BD] Sony BBC Earth HD
@@ -7510,8 +7537,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Movie_Bangla" group-title="Bangladeshi",Movie Bangla
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Movie_Bangla" group-title="Bangladeshi",Movie Bangla
-https://sm-monirul.top/toffee/play/movie_bangla.m3u8
 #EXTINF:-1 tvg-id="Just_for_laughs_(Pluto_TV)" group-title="Bangladeshi",Just for laughs (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="South_Station" group-title="Bangladeshi",South Station
@@ -7818,10 +7843,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-id="Ekattor_TV" group-title="News",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-id="INDEPENDENT_TV" group-title="News",INDEPENDENT TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-id="JAMUNA_TV" group-title="News",JAMUNA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="NEWS_24_HD" group-title="News",NEWS 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-id="ATN_NEWS_BD" group-title="News",ATN NEWS [BD]
@@ -7860,8 +7881,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="Peace_tv_Bangla" group-title="Religious",Peace tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
-#EXTINF:-1 tvg-id="Islamic_tv" group-title="Religious",Islamic tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten_Worldwide" group-title="Sports",GOLF | Unbeaten (Worldwide)
 https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="MIXER_|_Trace_Sports_Stars" group-title="Sports",MIXER | Trace Sports Stars
@@ -7934,5 +7953,5 @@ https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu
 https://c.mjh.nz/sport_in_90_seconds
 #EXTINF:-1 tvg-id="KTV_Sport_Plus" group-title="Sports",MIXER | KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-Live_TV_Playlist.m3u
-Live_TV_Playlist.m3u ডিসপ্লে করা হচ্ছে।
+Live_TV_Unique_Playlist.m3u
+Live_TV_Unique_Playlist.m3u ডিসপ্লে করা হচ্ছে।

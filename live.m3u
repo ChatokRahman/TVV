@@ -74,6 +74,21 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 #EXTINF:-1 group-title="Bangladeshi",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
 
+#EXTINF:-1 tvg-id="SATV" group-title="Bangladeshi",SATV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+#EXTINF:-1 tvg-id="GAZI_TV" group-title="Bangladeshi",GAZI TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MY_TV_HD" group-title="Bangladeshi",MY TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Asian_TV" group-title="Bangladeshi",Asian TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Ekushey_TV" group-title="Bangladeshi",Ekushey TV (480p)
+https://ekusheyserver.com/etvlivesn.m3u8
+
 ### =================== 2) News =================== ###
 #EXTINF:-1 tvg-id="BEKNews.us@SD" tvg-logo="https://i.imgur.com/m80uxdz.png" group-title="News",BEK TV News (720p)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
@@ -84,35 +99,156 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 #EXTINF:-1 tvg-id="GuaranteeNews.in@SD" tvg-logo="https://media.licdn.com/dms/image/v2/D560BAQHYZzbGJ7ViZA/company-logo_200_200/company-logo_200_200/0/1728031377890?e=2147483647&v=beta&t=bIsZgNUCcg0M_-Zqeu5wKYgBt_1-pI798X9lP5CxhTM" group-title="News",Guarantee News (1080p)
 https://guaranteenews.in:8443/live/gnews/index.m3u8
 
-#EXTINF:-1 tvg-id="BharatSamachar.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png" group-title="News",Bharat Samachar (480p)
-https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF:-1 tvg-id="Al_Jazeera" group-title="News",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-#EXTINF:-1 tvg-id="BigTV24x7.in@SD" tvg-logo="https://i.postimg.cc/rpHrRxR5/big_tv_malayalam.png" group-title="News",Big TV 24x7 (576i)
-https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN" group-title="News",CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
-#EXTINF:-1 group-title="News",R Plus News
-https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DW" group-title="News",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="Iran_International" group-title="News",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+
+#EXTINF:-1 tvg-id="CGTN_News" group-title="News",CGTN News
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France_24" group-title="News",France 24
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 
 ### =================== 3) Sports =================== ###
-# (আপনার তালিকায় বর্তমানে কোনো স্পোর্টস চ্যানেল পাওয়া যায়নি। নতুন স্পোর্টস চ্যানেল যোগ করলে এই ফোল্ডারের আন্ডারে জমা হবে।)
+#EXTINF:-1 tvg-id="DD_Sports" group-title="Sports",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+
+#EXTINF:-1 tvg-id="Sports_Legends" group-title="Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Flash_Guys_HD" group-title="Sports",Flash Guys HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sports_Range" group-title="Sports",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Thunder_Er" group-title="Sports",Thunder Er
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fighters" group-title="Sports",Fighters
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Crazy_Ex" group-title="Sports",Crazy Ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Football_Live" group-title="Sports",--Live(FOOTBALL)--
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="Star_Sports_1_Hindi" group-title="Sports",CR | Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+
+#EXTINF:-1 tvg-id="A_Spor" group-title="Sports",FB | A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+
+#EXTINF:-1 tvg-id="Bahrain_Sports_1" group-title="Sports",FB | Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bleav_Football" group-title="Sports",FB | Bleav Football
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="More_Then_Sports_TV" group-title="Sports",FB | MORE THEN SPORTS TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Oman_Sports_TV" group-title="Sports",FB | Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Fight_Network" group-title="Sports",FIGHT | FIGHT NETWORK
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lucha_Plus" group-title="Sports",FIGHT | Lucha Plus
+https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNA_Wrestling" group-title="Sports",FIGHT | TNA Wrestling Channel
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Golf_Network" group-title="Sports",GOLF | Golf Network
+https://streams2.sofast.tv/ptnr-sportstribal/genre-Sports/lang-English/ctgr-Sport/title-Golf_Network/sofastplayout/b7500c3f-bd94-4725-abfd-2644e004132c/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Unbeaten_Worldwide" group-title="Sports",GOLF | Unbeaten (Worldwide)
+https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACE_TV" group-title="Sports",MIXER | ACE TV
+https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cornhole_TV" group-title="Sports",MIXER | Cornhole TV
+https://bbb-aclco-freelivesports.otteravision.com/bbb/aclco/aclco.m3u8
+
+#EXTINF:-1 tvg-id="FUEL_TV" group-title="Sports",MIXER | FUEL TV
+https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HOOP_TV" group-title="Sports",MIXER | HOOP TV
+https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Horse_Country" group-title="Sports",MIXER | Horse & Country
+https://sportstri-hncfree-sportstribal-rb7j8.amagi.tv/playlist/sportstri-hncfree-sportstribal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hunt_Fish_TV" group-title="Sports",MIXER | Hunt Fish TV
+https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble" group-title="Sports",MIXER | InTrouble
+https://amg00861-terninternation-introuble-sportstribal-sog8f.amagi.tv/ts-us-e2-n1/playlist/amg00861-terninternation-introuble-sportstribal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV_Sport_Plus" group-title="Sports",MIXER | KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NBC_Sports" group-title="Sports",MIXER | NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Sports_Fishing" group-title="Sports",MIXER | Sports Fishing
+https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportsGrid" group-title="Sports",MIXER | SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
+
+#EXTINF:-1 tvg-id="WOF_1" group-title="Sports",MIXER | WOF 1
+https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="World_of_Freesports" group-title="Sports",MIXER | World of Freesports
+https://amg01866-mainstreammedia-freesportsinc-sportstribal-b3zdo.amagi.tv/ts-eu-w1-n2/playlist/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Xtrem_Sports" group-title="Sports",MIXER | Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BEK_TV_Sports_West" group-title="Sports",OTHER | BEK TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="World_Poker_Tour" group-title="Sports",POKER | World Poker Tour
+https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing" group-title="Sports",RACING | FloRacing
+https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Motor_Vision" group-title="Sports",RACING | Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+#EXTINF:-1 tvg-id="MTRSPT1" group-title="Sports",RACING | MTRSPT1
+https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RACER_International" group-title="Sports",RACING | RACER International
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="speed_sports_1" group-title="Sports",RACING | speed sports 1
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tennis_TV_Classics" group-title="Sports",TENNIS | Tennis TV Classics
+https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
 
 ### =================== 4) Entertainment =================== ###
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="Entertainment",Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment",R Plus Gold
-https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
-
-#EXTINF:-1 group-title="Entertainment",R Plus Gould
-https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
+#EXTINF:-1 tvg-id="G-Serise" group-title="Entertainment",G-Serise
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 ### =================== 5) Documentary =================== ###
-#EXTINF:-1 tvg-id="30ALoomeredTV.us@SD" tvg-logo="https://cbs12.com/resources/media/0c1ecad8-fb09-4bb2-beaa-fc561dfe624a-small21x9_LoomerStill.jpg?1603419052801" group-title="Documentary",30A Loomered TV
-https://30a-tv.com/loomer.m3u8
-
-#EXTINF:-1 tvg-id="Crime360.us@SD" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Documentary",A&E Crime 360 (720p)
-https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Documentary",Adventure Earth (720p)
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -123,13 +259,36 @@ https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="Documentary",BBC Four HD (720p) [Geo-blocked]
-https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8
+https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr.m3u8
 
-#EXTINF:-1 tvg-id="BloombergOriginals.us@US" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="Documentary",Bloomberg Originals (1080p)
-https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
+### =================== 6) Religious =================== ###
+#EXTINF:-1 tvg-id="Saudi_Quran" group-title="Religious",Saudi Quran
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
-#EXTINF:-1 tvg-id="BritBoxMysteries.us@SD" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="Documentary",BritBox Mysteries (1080p)
-https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 tvg-id="Madina_live" group-title="Religious",Madina live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary",CGTN Documentary (1080p)
-https://amg00405-rakutentv-cgtndocument
+#EXTINF:-1 tvg-id="Peace_tv_Bangla" group-title="Religious",Peace tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
+
+#EXTINF:-1 tvg-id="Islamic_tv" group-title="Religious",Islamic tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+### =================== 7) Kids =================== ###
+#EXTINF:-1 tvg-id="SRK_TV_Kids" group-title="Kids",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BuddyStar_HD" group-title="Kids",BuddyStar HD
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Joy" group-title="Kids",Joy
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Funny_Junior_HD" group-title="Kids",Funny Junior HD
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Smarty" group-title="Kids",Smarty
+https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lucky_Family" group-title="Kids",Lucky Family
+https://nomawnoijl.gpcdn
